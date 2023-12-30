@@ -45,7 +45,7 @@ I learnt a lot while working on this project. The summary of all I learnt is thi
 
 ### Continued development
 
-The plans I have for myself as i continue this software journey are to solidify my knowledge of web languages by building more projects and then learning frameworks that make building web applications easier and then keeping on working and improving my problem solving skills as a software engineer.
+The plans I have for myself as i continue this software journey are to solidify my knowledge of web languages by building more projects and then learning frameworks that make building web applications easier and then keeping on working and improving my problem solving skills as a software engineer🚀✅
 
 ### Useful resources
 
@@ -58,4 +58,4 @@ The plans I have for myself as i continue this software journey are to solidify 
 
 ## Acknowledgments
 
-I am giving a shout out to Kevin Powell, his videos and the way he approaches creating a webpage from a certain design given have helped me and is shaping me to reach my full potential as a software engineer. Thank you so much Kevin.
+I am giving a shout out to Kevin Powell, his videos and the way he approaches creating a webpage from a certain design given have helped me and is shaping me to reach my full potential as a software engineer. Thank you so much Kevin😄😄
